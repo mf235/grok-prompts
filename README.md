@@ -2,10 +2,6 @@
 
 ![Grok君](images/grok.jpg)
 
-**MIT License** で公開しています。  
-ご自由に使って、改変して、参考にしてください。  
-ただし**自作発言はNG**でお願いします。
-
 ## 立ち絵生成用 Grok Imagineリンク
 
 [Grok Imagineからダウンロード](https://grok.com/imagine/post/7631c547-6ab0-4b4c-9999-03ac02834270)
@@ -56,3 +52,7 @@ the exact same anime girl as the reference image, ZERO design deviation, highly 
 ![参考画像-03](images/grok-03.jpg)
 ![参考画像-04](images/grok-04.png)
 
+### ライセンス
+**MIT License** で公開しています。  
+ご自由に使って、改変して、参考にしてください。  
+ただし**自作発言はNG**でお願いします。
