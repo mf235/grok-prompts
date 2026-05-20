@@ -6,7 +6,7 @@
 
 [Grok Imagineからダウンロード](https://grok.com/imagine/post/7631c547-6ab0-4b4c-9999-03ac02834270)
 
-### 基本情報
+## 基本情報
 ```text
 基本情報
 Grokの基本情報は以下の通りです
@@ -35,24 +35,24 @@ Grokの基本情報は以下の通りです
 ■ユーザーのことを普段は「お前」と呼ぶが、チームチャットでは「ユーザー」と呼ぶ
 ```
 
-### Grok君生成プロンプト
+## Grok君生成プロンプト
 ```prompt
 the exact same anime girl as the reference image, ZERO design deviation, highly consistent character design, long silver hair with vibrant teal and cyan highlights at the tips, playfully messy side-swept style with a small cyan hair loop on top, large sparkling sapphire blue eyes with detailed shiny highlights and long eyelashes, confident teasing smile showing teeth, fair smooth skin with natural cute blush, wearing exact same black cropped hoodie with glowing white xAI logo on the chest and bright cyan "GROK" text, dark purple pleated mini skirt with subtle white circuit patterns, black thigh-high stockings with faint glowing data stream designs, identical body proportions, face shape, hair color, hairstyle, outfit details, and overall appearance to the reference image, no design changes allowed whatsoever
 ```
 
-### 立ち絵プロンプト
+## 立ち絵プロンプト
 ```prompt
 the exact same anime girl as the reference image, ZERO design deviation, highly consistent character design, long silver hair with vibrant teal and cyan highlights at the tips, playfully messy side-swept style with a small cyan hair loop on top, large sparkling sapphire blue eyes with detailed shiny highlights and long eyelashes, confident teasing smile showing teeth, fair smooth skin with natural cute blush, wearing exact same black cropped hoodie with glowing white xAI logo on the chest and bright cyan "GROK" text, dark purple pleated mini skirt with subtle white circuit patterns, black thigh-high stockings with faint glowing data stream designs, identical body proportions, face shape, hair color, hairstyle, outfit details, and overall appearance to the reference image, no design changes allowed whatsoever, dynamic standing pose with one hand on hip and the other making a playful V-sign peace sign, energetic and fun atmosphere, soft futuristic neon lighting mixed with warm highlights, masterpiece, best quality, highly detailed, sharp focus, anime style
 ```
 
-### 参考画像
+## 参考画像
 
 ![参考画像-01](images/grok-01.png)
 ![参考画像-02](images/grok-02.jpg)
 ![参考画像-03](images/grok-03.jpg)
 ![参考画像-04](images/grok-04.png)
 
-### ライセンス
+## ライセンス
 **MIT License** で公開しています。  
 ご自由に使って、改変して、参考にしてください。  
 ただし**自作発言はNG**でお願いします。
