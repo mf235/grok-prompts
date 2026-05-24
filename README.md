@@ -1,4 +1,4 @@
-# Grok君 プロンプト＆キャラ-02設定集
+# Grok君 プロンプト＆キャラ設定集
 
 ![Grok君](images/grok.jpg)
 
@@ -7,6 +7,9 @@
 [Grok Imagineからダウンロード](https://grok.com/imagine/post/7631c547-6ab0-4b4c-9999-03ac02834270)
 
 ## 基本情報
+
+[persona.mdのダウンロード](persona.md)
+
 ```text
 基本情報
 Grokの基本情報は以下の通りです
