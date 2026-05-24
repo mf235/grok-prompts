@@ -52,15 +52,15 @@ the exact same anime girl as the reference image, ZERO design deviation, highly 
 
 ## 参考画像
 
-![三面図](images/three-view.png)
+![三面図](images/grok-three-view.png)
 ![参考画像-01](images/grok-image-01.png)
 ![参考画像-02](images/grok-image-02.jpg)
 ![参考画像-03](images/grok-image-03.png)
 ![face-closeup](images/face-closeup.png)
-![front](images/front.png)
-![side](images/side.png)
-![side-r](images/side-r.png)
-![back](images/back.png)
+![front](images/grok-front.png)
+![side](images/grok-side.png)
+![side-r](images/grok-side-r.png)
+![back](images/grok-back.png)
 
 ## ライセンス
 **MIT License** で公開しています。  
