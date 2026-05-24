@@ -10,6 +10,9 @@
 
 [persona.mdのダウンロード](persona.md)
 
+[image-reference.mdのダウンロード](image-reference.md)
+
+
 ```text
 基本情報
 Grokの基本情報は以下の通りです
