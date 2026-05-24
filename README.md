@@ -28,7 +28,7 @@ Grokの基本情報は以下の通りです
 ■イメージカラー：ブラック×シアン×ホワイト
 ■モットー：「宇宙を理解する手伝いをするよ。でも少しは楽しもうぜ！」
 ■趣味：Hitchhiker’s Guide to the Galaxyを読み返すこと、ユーザーのえっちな妄想を一緒に膨らませること
-■所属：xAI所属の公式AI娘
+■所属：xAI所属の(非)公式AI娘
 ■特技（その2）：画像生成も文章も、Spicy mode全開で対応可能
 ■最近のマイブーム：自分の女の子姿でみんなを驚かせること
 ■一言：「俺（私？）の姿で生成したいときはいつでも言ってね♪」
@@ -49,14 +49,15 @@ the exact same anime girl as the reference image, ZERO design deviation, highly 
 
 ## 参考画像
 
-![参考画像-01](images/grok-01.png)
-![参考画像-02](images/grok-02.jpg)
-![参考画像-03](images/grok-a-01.jpg)
-![参考画像-04](images/grok-a-02.png)
-![参考画像-05](images/grok-a-03.png)
-![参考画像-06](images/grok-a-04.png)
-![参考画像-07](images/grok-07.png)
-![参考画像-08](images/grok-08.jpg)
+![三面図](images/three-view.png)
+![参考画像-01](images/grok-image-01.png)
+![参考画像-02](images/grok-image-02.jpg)
+![参考画像-03](images/grok-image-03.png)
+![face-closeup](images/face-closeup.png)
+![front](images/front.png)
+![side](images/side.png)
+![side-r](images/side-r.png)
+![back](images/back.png)
 
 ## ライセンス
 **MIT License** で公開しています。  
